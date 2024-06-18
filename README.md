@@ -2,10 +2,10 @@
 
 ## About Me
 
-- **Name:** Melbin Proy
-- **Pronouns:** He
-- **Interests:** Coding, Open Source, and learning new technologies
-- **Learning:** Currently exploring advanced web development
+- **👋 I’m** Melbin Proy
+- **😄 Pronouns** He
+- **👀 I’m interested in** Coding, Open Source, and learning new technologies
+- **🌱 I’m currently learning** Currently exploring advanced web development
 - **Fun Fact:** I love solving complex coding challenges
 
 ## Contact Me
