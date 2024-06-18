@@ -3,16 +3,15 @@
 ## About Me
 
 - **Name:** Melbin Proy
-- **Pronouns:** He/Him
+- **Pronouns:** He
 - **Interests:** Coding, Open Source, and learning new technologies
-- **Learning:** Currently exploring advanced web development and AI/ML technologies
-- **Looking to Collaborate:** On innovative open-source projects, especially in the fields of web development and AI
-- **Fun Fact:** I love solving complex coding challenges and participating in hackathons
+- **Learning:** Currently exploring advanced web development
+- **Fun Fact:** I love solving complex coding challenges
 
 ## Contact Me
 
-- **Email:** [melbinproy2003@gmail.com](mailto:melbinproy2003@gmail.com)
-- **LinkedIn:** [Melbin Proy](https://www.linkedin.com/in/melbin-proy)
+- **Email:** [@gmail.com](mailto:melbinproy76@gmail.com)
+- **LinkedIn:** [Melbin P Roy](https://www.linkedin.com/in/melbin-proy)
 
 ## GitHub Stats
 
