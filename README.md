@@ -11,6 +11,6 @@
 ## Let's Connect
 
 - **📧 Email:** [melbinproy76@gmail.com](mailto:melbinproy76@gmail.com)
-- **🔗 LinkedIn:** [Melbin P Roy](https://www.linkedin.com/in/melbin-p-roy-50382a2a6)
+- **🔗 LinkedIn:** [Melbin P Roy](https://www.linkedin.com/in/melbin-p-roy)
 
 ---
