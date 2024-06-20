@@ -9,7 +9,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melbinproy&show_icons=true&theme=radical" alt="Melbin Proy's GitHub Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=melbinproy&show_icons=true&theme=radical" alt="Melbin Proy's GitHub Stats"> -->
 </p>
 
 - **👋 I’m** Melbin Proy
