@@ -24,7 +24,7 @@
   <a href="mailto:melbinproy76@gmail.com">
     <img src="https://img.shields.io/badge/Email-melbinproy76@gmail.com-red" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/melbin-proy">
+  <a href="https://www.linkedin.com/in/melbin-p-roy">
     <img src="https://img.shields.io/badge/LinkedIn-Melbin%20P%20Roy-blue" alt="LinkedIn">
   </a>
 </p>
