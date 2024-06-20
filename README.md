@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns: He/Him">
-<!--   <img src="https://img.shields.io/badge/Interests-Coding%2C%20Open%20Source%2C%20Tech-brightgreen" alt="Interests: Coding, Open Source, Tech">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Web%20Development-yellow" alt="Currently Learning: Advanced Web Development"> -->
+  <img src="https://img.shields.io/badge/Interests-Coding%2C%20Open%20Source%2C%20Tech-brightgreen" alt="Interests: Coding, Open Source, Tech">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Web%20Development-yellow" alt="Currently Learning: Advanced Web Development">
 </p>
 
 ## About Me
