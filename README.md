@@ -5,19 +5,20 @@
   <img src="https://img.shields.io/badge/Interests-Coding%2C%20Open%20Source%2C%20Tech-brightgreen" alt="Interests: Coding, Open Source, Tech">
   <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Web%20Development-yellow" alt="Currently Learning: Advanced Web Development">
 </p>
-
+<!--
 ## About Me
-
+<!--
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=melbinproy&show_icons=true&theme=radical" alt="Melbin Proy's GitHub Stats"> -->
-</p>
-
+<!--
+</p> 
+<!--
 - **👋 I’m** Melbin Proy
 - **😄 Pronouns:** He/Him
 - **👀 Interests:** Coding, Open Source, and exploring new technologies
 - **🌱 Currently Learning:** Advanced web development
 - **💡 Fun Fact:** I love solving complex coding challenges
-
+  -->
 ## Contact Me
 
 <p align="center">
