@@ -1,20 +1,19 @@
-<h1 align="center">Hi there, I'm Melbin Proy 👋</h1>
+# Hi there, I'm Melbin! 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns: He/Him">
-  <img src="https://img.shields.io/badge/Interests-Coding%2C%20Open%20Source%2C%20Tech-brightgreen" alt="Interests: Coding, Open Source, Tech">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Web%20Development-yellow" alt="Currently Learning: Advanced Web Development">
-</p>
+I'm a space enthusiast, code wrangler, and coffee aficionado. When I'm not orbiting the keyboard, you'll find me gazing at the stars or tweaking CSS animations.
 
-## Contact Me
+## Tech Stack
+- Python 🐍
+- JavaScript 🌐
+- HTML/CSS 🎨
 
-<p align="center">
-  <a href="mailto:melbinproy76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-melbinproy76@gmail.com-red" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/melbin-p-roy">
-    <img src="https://img.shields.io/badge/LinkedIn-Melbin%20P%20Roy-blue" alt="LinkedIn">
-  </a>
-</p>
+## Projects
+- Cosmic Calculator: A celestial math tool for calculating moon phases and asteroid trajectories.
+- Nebula Notes: A space-themed note-taking app with zero gravity distractions.
 
----
+## Let's Connect
+🌌 Twitter
+🚀 LinkedIn
+🌠 Personal Website
+
+Feel free to explore my repositories and join me on this cosmic coding journey! 🌟
