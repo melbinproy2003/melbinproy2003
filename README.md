@@ -8,9 +8,8 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithKamal&theme=algolia" alt="CodeWithKamal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melbinproy2003&theme=algolia" alt="melbinproy2003" /></p>
 
-<br>
 <br>
 
 ## Contact Me
