@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="mailto:melbinproy76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-melbinproy76@gmail.com-red" alt="Email">
+    <img src="https://img.shields.io/badge/Email-red" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/melbin-p-roy">
-    <img src="https://img.shields.io/badge/LinkedIn-Melbin%20P%20Roy-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn">
   </a>
 </p>
 
