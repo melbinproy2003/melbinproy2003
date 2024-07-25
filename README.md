@@ -6,6 +6,13 @@
   <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Web%20Development-yellow" alt="Currently Learning: Advanced Web Development">
 </p>
 
+## 🔥 Streak Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithKamal&theme=algolia" alt="CodeWithKamal" /></p>
+
+<br>
+<br>
+
 ## Contact Me
 
 <p align="center">
