@@ -1,0 +1,11 @@
+{
+  "name": "update-readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

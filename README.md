@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h2 align="center">🔥 Streak Stats</h2>
+<h2 align="center">🔥 streak Stats</h2>
 
 <div align="center">
   <a href="https://github.com/melbinproy2003">
