@@ -21,9 +21,6 @@
       <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbinproy2003&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
     </picture>
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-gray-two.vercel.app?user=melbinproy2003&theme=dark" alt="Github Streak" height="190em"/>
-  </a>
 </div>
 <br/>
 
