@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,django,androidstudio,react,azure" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,fastapi,django,androidstudio,react,azure" alt="Skills Icons"/>
 </div>
 
 <h2 align="center">About Me</h2>
